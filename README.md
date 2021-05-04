@@ -1,5 +1,5 @@
 # Cheems-Web
-# How to use for browser
+# How to use with website
 1. Get a newtab redirect
 2. Put cheems-web.netlify.app to what to redirect to
 # How to use with .zip
